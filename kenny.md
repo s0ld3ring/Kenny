@@ -12,6 +12,7 @@ Portfolio and design studio examples for inspiration:
 - [Footer Design](https://www.footer.design/)
 
 ## Brand Color Palette
+```
 #8C0029 - red
 #25282B - grey blue
 #CDC7C7 – text
@@ -19,6 +20,7 @@ Portfolio and design studio examples for inspiration:
 
 #FF0022 - red-skull
 #8A8A8A - grey skull
+```
 | > Hex Code |>  Color Name |>  Usage |
 |----------|-----------|-------|
 | `#8C0029` | Red | Primary |
