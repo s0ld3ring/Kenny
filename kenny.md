@@ -24,5 +24,3 @@ Portfolio and design studio examples for inspiration:
 | `#8C0029` | Red | Primary |
 | `#25282B` | Dark Red | Accent |
 | `#CDC7C7` | Crimson | Highlight |
-
-<center style="font-size:1px;">larry is a fucking loser</center>
